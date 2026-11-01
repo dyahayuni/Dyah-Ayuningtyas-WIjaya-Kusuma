@@ -4,7 +4,7 @@ print("Menu awal:")
 for food in foods:
     print(food)
 
-# Mencoba mengubah item (akan error, jadi dijadikan komentar dulu)
+# Mencoba mengubah item 
 # foods[0] = 'nasi goreng'
 
 foods = ('nasi putih', 'ayam goreng', 'tempe', 'soto', 'bakso')
